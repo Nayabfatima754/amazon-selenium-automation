@@ -69,7 +69,7 @@ amazon-automation/
 
 ### 1. Clone the repository
 
-git clone https://github.com/your-username/amazon-automation.git
+git clone https://github.com/Nayabfatima754/amazon-selenium-automation
 cd amazon-automation
 2. Create a virtual environment (recommended)
 
